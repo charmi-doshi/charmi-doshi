@@ -12,4 +12,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=charmi-doshi&theme=aura_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=charmi-doshi&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+#Badges
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/{owner}/{repo}/CI?label=build)
