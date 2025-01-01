@@ -2,8 +2,20 @@
 ![github-header-image (3)](https://github.com/user-attachments/assets/7b78c4e5-2f64-4ae2-9fd1-c8fd36bdd6fc)
 
 # 💫 About Me:
-👋 Hi there! I'm Charmi Doshi<br>👾 Welcome to my code lair! <br>Here you'll find a mix of magic, mayhem, and meticulous debugging. <br>Whether it's full-stack wizardry, game dev adventures, or AI experiments, <br>grab some popcorn and enjoy the chaos! 🚀<br><br>🤝 Always open to collaborating on interesting projects
+👋 Hi there! I'm Charmi Doshi<br>👾 Welcome to my code lair! I’m a **full-stack developer** with a passion for creating immersive experiences in games, web apps, and AI. 🎮💻
+<br>
+- 🔭 Currently working on **D3.js web apps**  <br>
+- 🌱 Learning **dynamic programming** and **VR tech**  <br>
+- 🧠 Building innovative solutions with **AI and machine learning**  <br>
+- 🌌 Aspiring to make tech **fun, immersive, and user-friendly**   <br>
+- 🤝 Always open to collaborating on interesting projects
 
+
+## 🎉 Fun Facts  
+
+- 🎮 Favorite pastime: RPG video games  
+- 🎹 Plays the piano and writes short stories  
+- 🛠 Lifelong learner, constantly exploring new tech
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/charmi--doshi) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Charming-Drago-Den) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@CharmiDoshi-x5r) 
@@ -16,3 +28,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=charmi-doshi&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
+
+✨ *Crafted with love and a bit of chaos!*  
