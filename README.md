@@ -14,7 +14,7 @@
 ## 🎉 Fun Facts  
 
 - 🎮 Favorite pastime: RPG video games  
-- 🎹 Plays the piano and writes short stories  
+- 🎹 Playing the piano and writing short stories  
 - 🛠 Lifelong learner, constantly exploring new tech
 
 ## 🌐 Socials:
