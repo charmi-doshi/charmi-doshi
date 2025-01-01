@@ -1,3 +1,5 @@
+![Header]![github-header-image (2)](https://github.com/user-attachments/assets/31c87743-008f-4a0a-9de3-c943e30117ac)
+
 # 💫 About Me:
 👋 Hi there! I'm Charmi Doshi<br>👾 Welcome to my code lair! <br>Here you'll find a mix of magic, mayhem, and meticulous debugging. <br>Whether it's full-stack wizardry, game dev adventures, or AI experiments, <br>grab some popcorn and enjoy the chaos! 🚀<br><br>🤝 Always open to collaborating on interesting projects
 
