@@ -4,9 +4,8 @@
 # 💫 About Me:
 👋 Hi there! I'm Charmi Doshi<br>👾 Welcome to my code lair! I’m a **full-stack developer** with a passion for creating immersive experiences in games, web apps, and AI. 🎮💻
 <br>
-- 🔭 Currently working on **D3.js web apps**  <br>
-- 🌱 Learning **dynamic programming** and **VR tech**  <br>
-- 🧠 Building innovative solutions with **AI and machine learning**  <br>
+- 🔭 Currently working on **AI integrated web apps and AWS cloud**  <br>
+- 🌱 Learning **GraphQL** and **VR tech**  <br>
 - 🌌 Aspiring to make tech **fun, immersive, and user-friendly**   <br>
 - 🤝 Always open to collaborating on interesting projects
 
