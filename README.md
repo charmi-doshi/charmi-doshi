@@ -12,12 +12,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=charmi-doshi&theme=aura_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=charmi-doshi&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- uses: Platane/snk@v3
-  with:
-    github_user_name: charmi-doshi
 
-
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
