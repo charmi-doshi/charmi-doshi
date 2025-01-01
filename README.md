@@ -1,4 +1,5 @@
-![github-header-image (2)](https://github.com/user-attachments/assets/31c87743-008f-4a0a-9de3-c943e30117ac)
+
+![github-header-image (2)](https://github.com/user-attachments/assets/72f28d1f-dba1-4f38-a53c-55e52ed9a99c)
 
 # 💫 About Me:
 👋 Hi there! I'm Charmi Doshi<br>👾 Welcome to my code lair! <br>Here you'll find a mix of magic, mayhem, and meticulous debugging. <br>Whether it's full-stack wizardry, game dev adventures, or AI experiments, <br>grab some popcorn and enjoy the chaos! 🚀<br><br>🤝 Always open to collaborating on interesting projects
