@@ -2,7 +2,7 @@
 ![github-header-image (3)](https://github.com/user-attachments/assets/7b78c4e5-2f64-4ae2-9fd1-c8fd36bdd6fc)
 
 # 💫 About Me:
-👋 Hi there! I'm Charmi Doshi<br>👾 Welcome to my code lair! I’m a **full-stack developer** with a passion for creating immersive experiences in games, web apps, and AI. 🎮💻
+👋 Hi there! I'm Charmi Doshi<br>👾 Welcome to my code lair! I’m a **full-stack developer** with a passion for creating immersive experiences in games, web apps, and AI.(or at least trying to make the internet a little less boring). 🎮💻 I aim to combine my technical skills with creativity to deliver something you’ll hopefully find exceptional. I’m a jack-of-all-trades kind of person—basically, I dabble in everything because committing to one thing is overrated
 <br>
 - 🔭 Currently working on **AI integrated web apps and AWS cloud**  <br>
 - 🌱 Learning **GraphQL** and **VR tech**  <br>
@@ -10,10 +10,11 @@
 - 🤝 Always open to collaborating on interesting projects
 
 
-## 🎉 Fun Facts  
+## 🎉 When I’m not busy tinkering with code and creating cool stuff, you’ll find me  
 
-- 🎮 Favorite pastime: RPG video games  
-- 🎹 Playing the piano and writing short stories  
+- 🎮 Playing RPG video games
+- ✨scribbling down stories that may or may not end up as the next bestseller
+- 🎹 I also occasionally pretend to be a piano maestro.  
 - 🛠 Lifelong learner, constantly exploring new tech
 
 ## 🌐 Socials:
