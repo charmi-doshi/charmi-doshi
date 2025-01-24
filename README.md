@@ -17,7 +17,7 @@
 - 🎹 I also occasionally pretend to be a piano maestro.  
 - 🛠 Lifelong learner, constantly exploring new tech
 
-## 🌐 Socials:
+## 🌐 Socials: Connect with me —I promise I’m only mildly awkward in conversations!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/charmi--doshi) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Charming-Drago-Den) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@CharmiDoshi-x5r) 
 
 # 💻 Tech Stack:
