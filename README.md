@@ -5,7 +5,7 @@
 👋 Hi there! I'm Charmi Doshi<br>👾 Welcome to my code lair! I’m a **full-stack developer** with a passion for creating immersive experiences in games, web apps, and AI.(or at least trying to make the internet a little less boring). 🎮💻 I aim to combine my technical skills with creativity to deliver something you’ll hopefully find exceptional. I’m a jack-of-all-trades kind of person—basically, I dabble in everything because committing to one thing is overrated
 <br>
 - 🔭 Currently working on **AI integrated web apps and AWS cloud**  <br>
-- 🌱 Learning **GraphQL** and **VR tech**  <br>
+- 🌱 Learning **GraphQL with AWS Cloud** and **Multimodal Tech stack**  <br>
 - 🌌 Aspiring to make tech **fun, immersive, and user-friendly**   <br>
 - 🤝 Always open to collaborating on interesting projects
 
