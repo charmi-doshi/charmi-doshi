@@ -25,6 +25,8 @@
 - 🛠 Lifelong learner, constantly exploring new tech
 
 ## 🌐 Socials: Connect with me — I love a good chat and meeting new people!!
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://charmederror.me)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/charmi--doshi) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://in.pinterest.com/CharmedError/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@CharmedError) 
 
 # 💻 Tech Stack:
