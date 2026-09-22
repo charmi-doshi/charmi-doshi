@@ -9,12 +9,14 @@
 ![github-header-image (3)](https://github.com/user-attachments/assets/7b78c4e5-2f64-4ae2-9fd1-c8fd36bdd6fc)
 
 
-👋 Hi there! I'm Charmi Doshi<br>👾 Welcome to my code lair! I’m a **full-stack developer** with a passion for creating immersive experiences in games, web apps, and AI.(or at least trying to make the internet a little less boring). 🎮💻 I aim to combine my technical skills with creativity to deliver something you’ll hopefully find exceptional. I’m a jack-of-all-trades kind of person—basically, I dabble in everything because committing to one thing is overrated
-<br>
-- 🔭 Currently working on **AI integrated web apps and AWS cloud**  <br>
-- 🌱 Learning **MultiModal with AWS Cloud** and **Agentic AI Tech**  <br>
-- 🌌 Aspiring to make tech **fun, immersive, and user-friendly**   <br>
-- 🤝 Always open to collaborating on interesting projects
+Spatial Computing & Software Engineer building interactive experiences at the intersection of 3D, computer vision, real-time interaction, and AI.
+
+I enjoy turning cameras, sensors, and 3D environments into experiences that feel natural, responsive, and immersive. My work spans spatial tracking, 3D math, computer vision, GPU/rendering performance, and AI-powered systems. 🎮
+
+-  Currently exploring Spatial Computing, 3D Interaction, and Real-Time Computer Vision<br>
+-  Learning and experimenting with ARKit, RealityKit, 3D workflows, and multimodal AI<br>
+-  Interested in real-time performance, spatial tracking, rendering optimization, and intelligent interfaces<br>
+-  Always open to collaborating on spatial computing, 3D, computer vision, and AI projects<br>
 
 
 ## 🎉 When I’m not busy tinkering with code and creating cool stuff, you’ll find me  
